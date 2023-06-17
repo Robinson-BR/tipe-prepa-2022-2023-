@@ -1,0 +1,4 @@
+(executable
+ (public_name tipe_ocaml)
+ (name main)
+ (libraries tipe_ocaml graphics camlimages.core camlimages.png camlimages.graphics ))
